@@ -1,0 +1,54 @@
+combynr:core Freeware Licence
+
+Copyright (c) 2026 Combynr. All rights reserved.
+
+combynr:core ("the Software") is proprietary software owned by Combynr. It is
+licensed, not sold. By installing or using the Software you agree to these terms.
+If you do not agree, do not install or use it.
+
+1. Licence grant. Combynr grants you a free, non-exclusive, non-transferable,
+   revocable licence to install and use the Software, for personal or business
+   purposes, on any number of computers that you own or control.
+
+2. Restrictions. You may not, and may not allow others to:
+   a. sell, rent, lease, sublicense or charge any fee for the Software;
+   b. redistribute, publish or host the Software or its installers anywhere other
+      than by pointing people to Combynr's official download page;
+   c. modify the Software, or create works based on it;
+   d. decompile, disassemble or reverse engineer the Software, or try to recover its
+      source code, except to the extent that applicable law expressly permits this
+      despite this restriction;
+   e. remove or change any copyright, trademark or licence notice in the Software.
+
+3. Third-party components. The Software includes third-party components, such as
+   llama.cpp, whisper.cpp, the Python runtime and Python libraries, that are licensed
+   under their own open-source licences. Those licences are listed in
+   THIRD_PARTY_NOTICES.md and the "licenses" folder, and they govern your use of
+   those components. Nothing in this licence limits rights those licences give you.
+
+4. Your data. The Software runs on your computer and does not send your data to
+   Combynr. Models, chats and files stay in the Software's data folder on your
+   computer unless you connect it to other services yourself.
+
+5. Trademarks. "Combynr", "combynr:core" and the Combynr logo are trademarks of
+   Combynr. This licence gives you no right to use them.
+
+6. Updates and termination. Combynr may release new versions under different terms.
+   This licence ends automatically if you break it; you must then delete the Software.
+
+7. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. Models
+   can produce wrong or harmful output, and code they write can damage files. The
+   Python sandbox applies limits; it is not isolation and not a security boundary.
+
+8. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT
+   SHALL COMBYNR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+   THE SOFTWARE OR ITS USE.
+
+9. Earlier versions. Version 0.1.0 of combynr:core was briefly published as source
+   code under the MIT licence. Copies of that version remain under the MIT licence.
+   This licence applies to version 0.2.0 and later.
+
+Questions: hello@combynr.com
